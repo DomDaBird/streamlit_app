@@ -1,0 +1,2 @@
+"""Automotive Insights Streamlit application."""
+
